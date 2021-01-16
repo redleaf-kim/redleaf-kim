@@ -9,7 +9,17 @@
 </p>
 <br></br>
 
-<p align='center'> 👨🏻‍💻 About Me 👨🏻‍💻 </p>
+<p align='center'> 👨🏻‍💻 <strong>About Me</strong> 👨🏻‍💻 </p>
+<p align='center'> I'm Hongyeob Kim. 
+<br> Dreaming to change 🌏 with A.I. 
+</p>
+
+<p align='center'>
+Interested in DL specifically in Computer Vision.
+<br> Majored in Machanical Engineering at Korea Maritime Ocean University.
+<br> Worked with mAy-I team as a researcher intern for 3months.
+</p>
+
 <p align='center'> 
     <a href="mailto:mai.hong0924@gmail.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat-square&logo=Gmail&logoColor=white&link=""/></a>&nbsp
 </p>
