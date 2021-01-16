@@ -11,8 +11,10 @@
 
 <p align='center'> 👨🏻‍💻 About Me 👨🏻‍💻 </p>
 <p align='center'> 
-    [![](https://img.shields.io/badge/Mail-FF5050?style=flat-square&logo=Gmail&logoColor=white)](mailto:mai.hong0924@gmail.com)
+    <a href="mailto:mai.hong0924@gmail.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat-square&logo=Gmail&logoColor=white&link=""/></a>&nbsp
 </p>
 <br></br>
 
-[![Status](https://github-readme-stats.vercel.app/api?username=MaiHon)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=MaiHon">
+</p>
