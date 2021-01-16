@@ -4,9 +4,9 @@
 <h3 align='center'>🛠 Tech Stack 🛠</h3>
 
 <p align='center'> Techs that I've used at least once.</p>
-<p align='center'>
-    ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Docker-148CFF?style=flat-square&logo=Docker&logoColor=white) ![](https://img.shields.io/badge/Pytorch-FF3232?style=flat-square&logo=Pytorch&logoColor=white) ![](https://img.shields.io/badge/Tensorflow-FF8C0A?style=flat-square&logo=Tensorflow&logoColor=white) ![](https://img.shields.io/badge/Numpy-FFD228?style=flat-square&logo=Numpy&logoColor=white) 
 
+<p align='center'>
+![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Docker-148CFF?style=flat-square&logo=Docker&logoColor=white) ![](https://img.shields.io/badge/Pytorch-FF3232?style=flat-square&logo=Pytorch&logoColor=white) ![](https://img.shields.io/badge/Tensorflow-FF8C0A?style=flat-square&logo=Tensorflow&logoColor=white) ![](https://img.shields.io/badge/Numpy-FFD228?style=flat-square&logo=Numpy&logoColor=white) 
 </p>
 
 
