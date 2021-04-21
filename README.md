@@ -27,11 +27,6 @@ Interested in DL specifically in Computer Vision.
 
 <p align='center'> 
     <a href="mailto:mai.hong0924@gmail.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link=""/></a>&nbsp
-    <a href="maihon.oopy.io"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
+    <a href="https://maihon.oopy.io/"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
 <br></br>
-
-
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=MaiHon">
-</p>
