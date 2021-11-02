@@ -18,6 +18,7 @@
 - 🎓 **Undergraduate Student** at Korea Maritime Ocean University.
 - ⛺ **Boostcamper** of [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect Foundation
 - Worked with [mAy-I](https://may-i.io/) team as a researcher intern for 3months.
+- Worked with [Upstage](https://www.upstage.ai/) ocr team as a ai research engineer inter for 3months.
 - I've dreamt to change 🌏 with A.I.
 - Currently interested in **Computer Vision 📸**. 
 - Eventually I wanna intergrate **Vison**📸 with **NLP**📝 or **Speech**🗣 tasks tho. 
