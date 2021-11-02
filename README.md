@@ -28,6 +28,7 @@
 <br></br>
 |Competition Name|Type|Date|Rank|
 |:---|:---|:---:|:---:|
+|[카메라 이미지 품질 향상 AI 경진대회](https://dacon.io/competitions/official/235746)|Image Enhancement|21.06~21.08|5/228, Top 3%|
 |[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701)|PoseEstimation|21.02~21.04|2/156, Top 2%|
 |[제 2회 컴퓨터 비전 학습 경진대회](https://dacon.io/competitions/official/235697)|Classification|21.01~21.03|8/216, Top 5%|
 |[생체 광학 데이터 분석 AI 경진대회](https://dacon.io/competitions/official/235608)|Regression|20.12~21.01|19/316, Top 6%|
