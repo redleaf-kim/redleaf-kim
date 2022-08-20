@@ -46,7 +46,7 @@
 <summary><strong>:octocat: GitHub Stats</strong></summary>
 <br/>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=MaiHon&show_icons=true&theme=dracula&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MaiHon&hide=css,java,html,asp&theme=dracula&langs_count=4">
+  <img src = "https://github-readme-stats.vercel.app/api?username=heimish-kyma&show_icons=true&theme=dracula&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=heimish-kyma&hide=css,java,html,asp&theme=dracula&langs_count=4">
 </p>
 </details>
