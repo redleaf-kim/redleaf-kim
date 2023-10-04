@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hello,%20World%20👋&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hello%20World%20👋&fontSize=36&animation=fadeIn&fontAlignY=36)
 
 
 <h3 align='center'>🛠 Tech Stack 🛠</h3>
@@ -15,16 +15,25 @@
 <br></br>
 
 👋🏻 Hello I'm Hongyeob Kim.
-- 🎓 **Undergraduate Student** at Korea Maritime Ocean University.
+<br></br>
+
+**Education**
+- 🎓 **Graduate Student** at Sungkyunkwan University (SKKU)
+- 🎓 Bachelor's from Korea Maritime Ocean University
+
+**Work Experience**
+- **AI Engineer** at [NuviLab](https://www.nuvi-labs.com/) for 1.5 years.  as AI Engineer
+- **AI Research Engineer** Intern with [Upstage](https://www.upstage.ai/) OCR Team for 3 months
+- **Researcher Intern** with [mAy-I](https://may-i.io/) for 3 months
+
+**Other Involvements**
 - ⛺ **Boostcamper** of [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect Foundation
-- Worked with [mAy-I](https://may-i.io/) team as a researcher intern for 3months.
-- Worked with [Upstage](https://www.upstage.ai/) ocr team as a ai research engineer inter for 3months.
-- Currently working with [NuviLab](https://www.nuvi-labs.com/) as AI Engineer
-- I've dreamt to change 🌏 with A.I.
-- Currently interested in **Computer Vision 📸**. 
-- Eventually I wanna intergrate **Vison**📸 with **NLP**📝 or **Speech**🗣 tasks tho. 
+
+**About Me**
+- A fervent believer in the transformative power of A.I. with a vision to reshape our world 🌏
+- Primarily focused on Computer Vision 📸 but keen on integrating it with NLP📝 and Speech🗣 in the future.
 - If you wanna know more about me. 👉🏻 <a href="https://maihon.oopy.io/"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white"/></a>
-- If you wanna contect to me. 👉🏻 <a href="mailto:mai.hong0924@gmail.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link="/></a>
+- If you wanna contect to me. 👉🏻 <a href="mailto:heimish.kyma@gmail.com"><img src="https://img.shields.io/badge/Mail-FF5050?style=flat&logo=Gmail&logoColor=white&link="/></a>
 
 
 <br></br>
